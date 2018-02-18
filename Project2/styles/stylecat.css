@@ -1,0 +1,29 @@
+body {
+	background-color:#eaeaea;
+}
+
+h2 {
+  font-size: 18px;
+  font-style: arial;
+  font-weight: 400;
+  text-decoration: none;
+  color: black
+}
+
+img {
+	 border: 2px solid black;
+}
+
+div {
+	color:707070;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 16px; 
+}
+
+ p {
+	color:#484343;
+	font-size: 16px;
+	font-style: italic;
+	line-height: 24px; 
+}

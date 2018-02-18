@@ -1,0 +1,18 @@
+body {
+	background-color:#f8f8f8
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li a {
+  font-size: 20px;
+  font-style: arial;
+  text-decoration: none;
+  color: black
+}
+
+a img{
+	border: 2px solid black;
+}
