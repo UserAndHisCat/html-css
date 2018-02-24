@@ -16,3 +16,52 @@ ul li a {
 a img{
 	border: 2px solid black;
 }
+
+ul li a:hover {
+  color: red;
+  font-size: 20px;
+}
+
+img.logo {
+float:right !important;
+}
+
+
+form input:focus {
+  color: black;
+  background-color:#FFE4C4;
+  outline: none;
+}
+
+form input{
+  text-transform: capitalize;
+  color: black;
+  font-size: 15px;
+  font-family: arial;
+}
+
+form input {
+  width: 300px;
+  height: 20px;
+  display: block;
+  margin-bottom: 15px;
+  border: 2px solid gray; 
+}
+
+form textarea{
+  width: 600px;
+  height: 400px;
+  display: block;
+  margin-bottom: 15px;
+  border: 2px solid gray; 
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  color: black;
+}
+
+table caption {
+  font-weight: bold;
+}
