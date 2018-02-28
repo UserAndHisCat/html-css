@@ -56,12 +56,3 @@ form textarea{
   border: 2px solid gray; 
 }
 
-table {
-  width: 100%;
-  border-collapse: collapse;
-  color: black;
-}
-
-table caption {
-  font-weight: bold;
-}
