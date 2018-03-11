@@ -1,5 +1,5 @@
 body {
-	background-color:#f8f8f8
+	background-color:#f8f8f8;
 }
 
 ul {
@@ -18,12 +18,15 @@ a img{
 }
 
 ul li a:hover {
-  color: red;
+  color: white;
   font-size: 20px;
 }
 
 img.logo {
-float:right !important;
+  height: 111px;
+  width: 125px;
+  margin: 24px 0px 0px 234px; 
+  float: left !important;
 }
 
 
@@ -55,4 +58,226 @@ form textarea{
   margin-bottom: 15px;
   border: 2px solid gray; 
 }
+
+.header {
+  height: 700px;
+  width: 1500px;
+  background-color:  #abeafa;
+  overflow:auto;
+ /* margin: 0px 0px 2665px 0px ;*/
+}
+
+.Spashal{
+  height: 169px;
+  width: 313px;
+  margin: -310px 0px 0px 913px;
+  background-color: #abeafa;
+  font-family: Raleway;
+  color:  #fff51f;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+.yblock {
+  height: 300px; 
+  width: 270px;
+  background-color: #fff51f;
+  margin: 336px 1065px 0px 165px; 
+}
+
+.yblockdiv{
+  margin: 82px 46px 0px 25px;
+  width: 199px;
+  height: 52px;
+  font-family: Raleway;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.yblock p{
+  margin: 158px 30px 82px 22px;
+/*  width: 218;
+  height: 60;
+  */
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.gblock {
+  height: 300px; 
+  width: 270px;
+  background-color: #e0e0e0;
+  margin: -609px 1065px 0px 165px; 
+  overflow:auto;
+}
+
+.catalogueP {
+  height: 400px;
+  width: 870px;
+  background-color: #f8f8f8;
+  margin: -243px 165px 0px 465px;
+  padding: 0px;
+}
+
+.catalogueP li{
+  width: 270px;
+  height: 320px;
+  margin-left: 0px;
+  display: inline-block;
+}
+
+.catalogueP ul li a{
+  width: 270px;
+  height: 320px;
+  margin: 80px 600px 324px 0px;
+  display: block;
+  text-align: center;
+  background-color: #ffffff;
+  padding: 0px;
+}
+
+  .catalogueP ul li a img{
+  width: 250px;
+  height: 235px;
+  margin: 10px 0px 0px 0px; 
+} 
+
+.catalogueP h2{
+  color:  #707070;
+  font-size: 35px;
+  font-weight: 900;
+  font-style: italic;
+  text-align: left;
+}
+
+.catalogueW {
+  height: 400px;
+  width: 870px;
+  background-color: #f8f8f8;
+  margin: 135px 165px 0px 465px;
+  padding: 0px;
+}
+
+.catalogueW li{
+  width: 270px;
+  height: 320px;
+  margin-left: 0px;
+  display: inline-block;
+}
+
+.catalogueW ul li a{
+  width: 270px;
+  height: 320px;
+  margin: 80px 600px 324px 0px;
+  display: block;
+  text-align: center;
+  background-color: #ffffff;
+  padding: 0px;
+}
+
+  .catalogueW ul li a img{
+  width: 250px;
+  height: 235px;
+  margin: 10px 0px 0px 0px; 
+} 
+
+.catalogueW h2{
+  color:  #707070;
+  font-size: 35px;
+  font-weight: 900;
+  font-style: italic;
+  text-align: left;
+}
+
+.brand{
+  height: 160px;
+  width: 1170px;
+  background-color: #ffffff;
+  margin: 400px 165px 0px 160px;
+}
+
+.insta{
+  height: 350px;
+  width: 1170px;
+  margin: 0px 165px 0px 160px;
+  background-color: #eaeaea;
+  overflow:auto;
+}
+
+.social li {
+  height: 40px;
+  width: 32%;
+  display: inline-block;
+  margin-left: -81px;
+}
+
+.social li a {
+  width: 390px;
+  height: 150px;
+  display: block;
+  line-height: 150px;
+  text-align: center;   
+  margin: 0px 0px 0px 200px;
+  overflow:auto;
+
+}
+
+.footer {
+  height: 348px;
+  width: 1500px;
+  background-color: #343434;
+  margin: 0px 0px 0px 0px;
+  overflow:auto;
+}
+
+ .menu li {
+  height: 43px;
+  width: 270px;
+  background-color: #26d2fc;
+} 
+
+.menu li a:hover {
+  height: 43px;
+  width: 270px;
+  background-color:  #343434;
+}
+
+ 
+ .body {
+  height: 1307px;
+  width: 1500px;
+  background-color: #f8f8f8;
+}
+
+ .menu {
+  height: 215px;
+  width: 270px;
+  padding-left: 0;
+  margin: -40px 1065px 0px 165px;
+  background-color: #26d2fc;
+} 
+
+.menu li a {
+  width: 270px;
+  height: 43px;
+  display: block;
+  line-height: 35px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  }
+
+  .menu .begmenu{
+  width: 270px;
+  height: 66px;
+  display: block;
+  line-height: 66px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  background-color: #343434;
+  }
 
